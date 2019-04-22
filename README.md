@@ -15,11 +15,11 @@ google.com(谷歌；搜索类） youtube.com(油管；视频类）
 
 ### ===自己搭建SS/SSR或v2ray服务器教程===
 
-[自建ss/ssr服务器教程](https://gitlab.com/Alvin9999/free/wikis/%E8%87%AA%E5%BB%BAss%E6%9C%8D%E5%8A%A1%E5%99%A8%E6%95%99%E7%A8%8B) （很详细，适合新手）
+[自建ss/ssr服务器教程](https://github.com/wandou911/ssr/wiki/自建ss服务器教程) （很详细，适合新手）
 
-[自建v2ray服务器教程](https://gitlab.com/Alvin9999/free/wikis/%E8%87%AA%E5%BB%BAv2ray%E6%9C%8D%E5%8A%A1%E5%99%A8%E6%95%99%E7%A8%8B) （很详细，适合新手）
+[自建v2ray服务器教程](https://github.com/wandou911/ssr/wiki/自建v2ray服务器教程) （很详细，适合新手）
 
-[自建brook服务器教程](https://gitlab.com/Alvin9999/free/wikis/%E8%87%AA%E5%BB%BAbrook%E6%9C%8D%E5%8A%A1%E5%99%A8%E6%95%99%E7%A8%8B) （新的翻墙方式，速度更快）
+[自建brook服务器教程](https://github.com/wandou911/ssr/wiki/自建brook服务器教程) （新的翻墙方式，速度更快）
 
 VPS推荐：
 
