@@ -2,7 +2,7 @@
 
 ### SS/SSR免费账号（长期更新）
 
-http://www.xiaokeli.me
+http://www.xiaokeli.me/register?aff=88
 
 免费账号用的人多，所以有速度限制，如果想高速翻墙上网、学习翻墙技能，可以自己搭建服务器。[自建ss/ssr服务器教程](https://github.com/wandou911/ssr/wiki/自建ss服务器教程) 
 
@@ -30,9 +30,49 @@ VPS推荐：
 
 ### ===免费SS/SSR节点列表===（不定期更新账号ip或端口或密码）
 
-http://www.xiaokeli.me
+http://www.xiaokeli.me/register?aff=88
+
+#### 日本节点：
+
+服务器：ssr1.xiaokeli.info
+远程端口：10890
+密码：xiaokeli.me
+加密方法：aes-256-cfb
+路由：绕过局域网及中国大陆地址
+
+协议：origin
+协议参数：
+混淆方式：plain
+混淆参数：
+本地端口：1080
+
+ 
+#### 美国节点：
+
+服务器：ssr2.xiaokeli.info
+远程端口：10890
+密码：xiaokeli.me
+加密方法：aes-256-cfb
+路由：绕过局域网及中国大陆地址
+
+协议：origin
+协议参数：
+混淆方式：plain
+混淆参数：
+本地端口：1080
 
 
+服务器：ssr3.xiaokeli.info
+远程端口：10890
+密码：xiaokeli.me
+加密方法：aes-256-cfb
+路由：绕过局域网及中国大陆地址
+
+协议：origin
+协议参数：
+混淆方式：plain
+混淆参数：
+本地端口：1080
 
 
 **SSR客户端下载：**
