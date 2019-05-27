@@ -23,14 +23,23 @@ google.com(谷歌；搜索类） youtube.com(油管；视频类）
 
 VPS推荐：
 
+[搬瓦工官方网站](https://bandwagonhost.com/aff.php?aff=19935)
+
+[https://bandwagonhost.com/aff.php?aff=19935](https://bandwagonhost.com/aff.php?aff=19935)
+
 [![搬瓦工](https://ssr.tools/wp-content/uploads/Banwagonhost.png)](https://bandwagonhost.com/aff.php?aff=19935)
+
+[Vultr官方网站](https://www.vultr.com/?ref=7236384)
+
+[https://www.vultr.com/?ref=7236384](https://www.vultr.com/?ref=7236384)
 
 [Vultr](https://www.vultr.com/?ref=7887711-4F) （vultr在2019年1月的最新活动，针对新用户，直接送50美元！vultr全球15个服务器位置可选，KVM框架，最低2.5美元/月。支持支付宝和paypal付款。）
 
 <a href="https://www.vultr.com/?ref=7887711-4F"><img src="https://www.vultr.com/media/banner_2.png" width="468" height="60"></a>
 
+[OneVPS官方网站](https://www.onevps.com/portal/aff.php?aff=3257)
 
-[https://www.onevps.com](https://www.onevps.com/portal/aff.php?aff=3257)
+[https://www.onevps.com/portal/aff.php?aff=3257](https://www.onevps.com/portal/aff.php?aff=3257)
 
 ### ===免费SS/SSR节点列表===（不定期更新账号ip或端口或密码）
 
@@ -38,7 +47,7 @@ http://www.xiaokeli.me/register?aff=88
 
 免费账号用的人多，所以有速度限制，如果想高速翻墙上网、学习翻墙技能，可以自己搭建服务器。[自建ss/ssr服务器教程](https://github.com/wandou911/ssr/wiki/自建ss服务器教程) 
 
-2019年5月16日更新。免费资源有速度限制，建议每个有条件的人都学习一下自己搭建服务器，学一门技能有备无患。
+2019年5月27日更新。免费资源有速度限制，建议每个有条件的人都学习一下自己搭建服务器，学一门技能有备无患。
 
 #### 日本节点：
 
