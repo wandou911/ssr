@@ -13,6 +13,7 @@ google.com(谷歌；搜索类） youtube.com(油管；视频类）
 
 
 ### ===自己搭建SS/SSR或v2ray服务器教程===
+[ssr一键安装](https://github.com/wandou911/ssr/wiki/SSR一键安装)
 
 [自建ss/ssr服务器教程](https://github.com/wandou911/ssr/wiki/自建ss服务器教程) （很详细，适合新手）
 
@@ -22,10 +23,14 @@ google.com(谷歌；搜索类） youtube.com(油管；视频类）
 
 VPS推荐：
 
+[![搬瓦工](https://ssr.tools/wp-content/uploads/Banwagonhost.png)](https://bandwagonhost.com/aff.php?aff=19935)
+
 [Vultr](https://www.vultr.com/?ref=7887711-4F) （vultr在2019年1月的最新活动，针对新用户，直接送50美元！vultr全球15个服务器位置可选，KVM框架，最低2.5美元/月。支持支付宝和paypal付款。）
 
 <a href="https://www.vultr.com/?ref=7887711-4F"><img src="https://www.vultr.com/media/banner_2.png" width="468" height="60"></a>
 
+
+[https://www.onevps.com](https://www.onevps.com/portal/aff.php?aff=3257)
 
 ### ===免费SS/SSR节点列表===（不定期更新账号ip或端口或密码）
 
