@@ -49,48 +49,7 @@ http://www.xiaokeli.me/register?aff=88
 
 2019年5月27日更新。免费资源有速度限制，建议每个有条件的人都学习一下自己搭建服务器，学一门技能有备无患。
 
-#### 日本节点：
-
-服务器：ssr1.xiaokeli.info
-远程端口：19028
-密码：xiaokeli.me
-加密方法：aes-256-cfb
-路由：绕过局域网及中国大陆地址
-
-协议：origin
-协议参数：
-混淆方式：plain
-混淆参数：
-本地端口：1080
-
- 
-#### 美国节点：
-
-服务器：ssr2.xiaokeli.info
-远程端口：19028
-密码：xiaokeli.me
-加密方法：aes-256-cfb
-路由：绕过局域网及中国大陆地址
-
-协议：origin
-协议参数：
-混淆方式：plain
-混淆参数：
-本地端口：1080
-
-
-服务器：ssr3.xiaokeli.info
-远程端口：19028
-密码：xiaokeli.me
-加密方法：aes-256-cfb
-路由：绕过局域网及中国大陆地址
-
-协议：origin
-协议参数：
-混淆方式：plain
-混淆参数：
-本地端口：1080
-
+![节点](https://ws2.sinaimg.cn/large/006tNc79ly1g3mvc9hjf2j31aw0amjvf.jpg)
 
 **SSR客户端下载：**
 
