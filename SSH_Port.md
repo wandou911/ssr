@@ -45,7 +45,31 @@
 
 测试修改端口以后的ssh连接，如果成功则将port 22 重新注释掉
 
+## 防火墙相关指令
 
+1、开启关闭防火墙
+
+```
+systemctl start firewalld
+systemctl stop firewalld
+```
+
+2、放行端口
+
+```
+firewall-cmd --permanent --zone=public --add-port=21212/tcp
+firewall-cmd --reload
+```
+
+
+这里红字部分是我们设置的端口，需要放行。如果有出现"FirewallD is not running"问题可以参考"CentOS7出现的”Failed to start firewalld.service”问题以及端口添加记录"解决，没有启动导致的。
+
+3、检查端口是否开启
+
+```
+firewall-cmd --permanent --query-port=21212/tcp
+
+```
 参考链接: [Linux centos 远程SSH默认22端口修改为其他端口](https://blog.51cto.com/chidongting/1761061)
 
 
