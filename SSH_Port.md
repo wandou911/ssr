@@ -47,3 +47,7 @@
 
 
 参考链接: [Linux centos 远程SSH默认22端口修改为其他端口](https://blog.51cto.com/chidongting/1761061)
+
+
+参考链接：[CentOS7修改Linux服务器SSH默认端口的方法](https://www.daniao.org/2127.html)
+
