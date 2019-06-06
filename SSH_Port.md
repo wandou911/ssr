@@ -1,5 +1,33 @@
 ## 修改ssh端口的详细步骤（centos7）：
 
+
+### 检查SElinux是否关闭
+
+检查命令，输入看到是disable状态才行，要不需要先关闭掉，防止出现问题
+
+![](https://www.daniao.org/wp-content/uploads/2017/11/cos-ssh-1.jpg)
+
+1 查看当前selinux的状态。
+
+`/usr/sbin/sestatus`
+
+2 将SELINUX=enforcing 修改为 SELINUX=disabled 状态。
+
+```
+vi /etc/selinux/config
+
+#SELINUX=enforcing 
+SELINUX=disabled
+
+```
+
+3重启生效。reboot。
+
+`reboot`
+
+
+### 修改端口
+
 1，控制SSH访问端口的文件为 /etc/ssh/sshd_config 。
 
     因此，编辑SSH配置文件sshd_config：
