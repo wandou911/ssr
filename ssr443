@@ -1,0 +1,17 @@
+
+SSR 443和80 端口配置实例
+
+示例1:
+
+```
+"additional_ports" : {      "80": {          "passwd": "pubpassword",          "method": "aes-128-ctr",          "protocol": "auth_aes128_md5",          "protocol_param": "#",          "obfs": "tls1.2_ticket_auth_compatible",          "obfs_param": ""      },      "443": {          "passwd": "pubpassword",          "method": "aes-128-ctr",          "protocol": "auth_aes128_md5",          "protocol_param": "#",          "obfs": "tls1.2_ticket_auth_compatible",          "obfs_param": ""      }  }, 
+
+
+```
+
+
+示例2
+ 
+```
+"additional_ports" : {"443": {"passwd": "xiaokeli.info", "method": "aes-128-ctr", "protocol": "auth_aes128_md5", "protocol_param": "#", "obfs": "tls1.2_ticket_auth", "obfs_param": "" }  }, 
+```
