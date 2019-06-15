@@ -43,7 +43,7 @@ V2Ray也是需要在国外VPS服务器上安装服务端，然后在本地设备
 
 用哪家的服务器，怎么购买
 
-[搬瓦工](https://bandwagonhost.com/aff.php?aff=19935) 或 [Vultr](https://www.vultr.com/?ref=7887711-4F) 
+[搬瓦工](https://bandwagonhost.com/aff.php?aff=19935)  [Vultr](https://www.vultr.com/?ref=7887711-4F) [ONEVPS](https://www.onevps.com/portal/aff.php?aff=3257)
 
 2.在VPS服务器上安装V2Ray
 
