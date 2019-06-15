@@ -47,9 +47,10 @@ http://www.xiaokeli.me/register?aff=88
 
 免费账号用的人多，所以有速度限制，如果想高速翻墙上网、学习翻墙技能，可以自己搭建服务器。[自建ss/ssr服务器教程](https://github.com/wandou911/ssr/wiki/自建ss服务器教程) 
 
-2019年5月27日更新。免费资源有速度限制，建议每个有条件的人都学习一下自己搭建服务器，学一门技能有备无患。
+免费资源有速度限制，建议每个有条件的人都学习一下自己搭建服务器，学一门技能有备无患。
 
-![节点](https://ws2.sinaimg.cn/large/006tNc79ly1g3mvc9hjf2j31aw0amjvf.jpg)
+
+![节点](https://i.loli.net/2019/06/15/5d04a48d7ee8060454.png)
 
 **SSR客户端下载：**
 
