@@ -45,6 +45,10 @@ google.com(谷歌；搜索类） youtube.com(油管；视频类）
 
 http://www.xiaokeli.me/register?aff=88
 
+备用地址：
+
+http://ssrcloud.xyz/register?aff=88
+
 免费账号用的人多，所以有速度限制，如果想高速翻墙上网、学习翻墙技能，可以自己搭建服务器。[自建ss/ssr服务器教程](https://github.com/wandou911/ssr/wiki/自建ss服务器教程) 
 
 免费资源有速度限制，建议每个有条件的人都学习一下自己搭建服务器，学一门技能有备无患。
