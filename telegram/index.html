@@ -1,0 +1,100 @@
+<!doctype html>
+<html>
+<head>
+	<meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0, user-scalable=no">
+	<meta name="description" content="Telegram" />
+	<meta name="keywords" content="Telegram" />
+	<title>Telegram</title>
+    <link rel="shortcut icon" href="./assets/images/favicon.ico">
+    <link rel="stylesheet" href="./assets/css/bootstrap.min.css" />
+    <link rel="stylesheet" href="./assets/css/style.css" />
+    <link rel="stylesheet" href="./assets/css/my.css" />
+</head>
+<body>
+    <div class="wrap">
+        <div class="main">
+			<div class="topbread" style="margin-bottom: 20px;">
+		    	<div class="container">
+                  <h1 class="text-center">Telegram</h1>
+		    	</div>
+			</div>
+			<div style="margin-top: 70px; margin-bottom: 20px;">
+		        <div style="text-align:center;">
+		  			<div class="polaroid">
+                        <div class="logo">
+                            <img src="./assets/images/icon.png" class="img-circle" width="120" height="120" />
+                        </div>
+                    </div>
+		            <div class="info" id="ul">
+		                <p>Version: 5.10 / Size: 116.6 MB</p>
+					</div>
+		            <div style="padding-top:20px;">
+                        <div class="id" id="id" style="display: none;text-align: left;">
+							<div style="text-align:left;">
+								<p>正在安装中，按 HOME 键返回桌面查看进度。</p>
+        					    <p>首次进行安装请使用提供的账号登录。</p>
+								<p>安装完成后，请前往App Store 退出登录账号。</p>
+							</div>
+							<table class="table table-bordered">
+                                 <tbody>
+                                     <tr>
+                                         <td>账号</td>
+                                         <td><span id="account"></span></td>
+		                                 <td><a id="copy-id" data-clipboard-target="#account">复制</a></td>
+                                     </tr>
+                                     <tr>
+                                         <td>密码</td>
+                                         <td><span id="password"></td>
+                                         <td><a id="copy-pw" data-clipboard-target="#password">复制</a></td>
+                                     </tr>
+                                 </tbody>
+                             </table>
+							 <p><a id="refresh">刷新</a><p>
+                      	</div>
+		                <span id="checkinfo">
+		                    <a href="itms-services://?action=download-manifest&url=https://ssrscloud.xyz/ssr/telegram/ipa.plist" class="btn btn-success btn-lg btn-circle" id="uaApp">在线安装</a>
+		                    <div class="uatip" id="uaTip">
+								<span class="uatip-icon"></span>
+								<p class="uatip-txt">点击右上角<br/>选择在Safari中打开</p>
+							</div>
+		                </span>
+		            </div>
+		        </div>
+                <br/>
+			</div>
+		  
+			<!-- div class="col-md-8 col-md-offset-2" -->
+		        <!-- hr class="devider devider-dotted" -->
+		    <!-- /div -->
+	        <!-- div class="col-md-8 col-md-offset-2" -->
+	            <!-- div class="text-center">2018-11-14 ID被锁定 已更换密码</div -->
+	        <!-- /div -->
+        </div>
+    </div>
+	<div class="footer">
+        <div class="text-center">
+             ©&nbsp;2018 <a href="https://9499460.com/" target="blank">博客</a>
+        </div>
+	</div>
+<script type="text/javascript" src="./assets/js/jquery-1.7.2.min.js"></script>
+<script type="text/javascript" src="./assets/js/clipboard.min.js"></script>
+<script type="text/javascript" src="./assets/js/my.js"></script>
+<script>
+    var username = "xfgssr@gmail.com";
+    var password = "Xfgssr2560";
+    document.getElementById("account").innerHTML=username;
+    document.getElementById("password").innerHTML=password;
+</script>
+<!-- 百度统计 -->
+<script>
+var _hmt = _hmt || [];
+(function() {
+  var hm = document.createElement("script");
+  hm.src = "https://hm.baidu.com/hm.js?87c25631fce83d39f7cbb3c085df77ae";
+  var s = document.getElementsByTagName("script")[0]; 
+  s.parentNode.insertBefore(hm, s);
+})();
+</script>
+</body>
+</html>
