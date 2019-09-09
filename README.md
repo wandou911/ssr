@@ -33,9 +33,9 @@ google.com(谷歌；搜索类） youtube.com(油管；视频类）
 
 [https://www.vultr.com/?ref=7236384](https://www.vultr.com/?ref=7236384)
 
-[Vultr](https://www.vultr.com/?ref=7887711-4F) （vultr在2019年1月的最新活动，针对新用户，直接送50美元！vultr全球15个服务器位置可选，KVM框架，最低2.5美元/月。支持支付宝和paypal付款。）
+[Vultr](https://www.vultr.com/?ref=7236384) （vultr在2019年1月的最新活动，针对新用户，直接送50美元！vultr全球15个服务器位置可选，KVM框架，最低2.5美元/月。支持支付宝和paypal付款。）
 
-<a href="https://www.vultr.com/?ref=7887711-4F"><img src="https://www.vultr.com/media/banner_2.png" width="468" height="60"></a>
+<a href="https://www.vultr.com/?ref=7236384"><img src="https://www.vultr.com/media/banner_2.png" width="468" height="60"></a>
 
 * [OneVPS官方网站](https://www.onevps.com/portal/aff.php?aff=3257)
 
