@@ -57,6 +57,34 @@ sysctl net.ipv4.tcp_congestion_control
 
 ![](https://ssr.tools/wp-content/uploads/2018-11-29_190039.jpg)
 
+如果报错：
+
+```
+make -C /lib/modules/`uname -r`/build M=`pwd` modules CC=/usr/bin/gcc
+./scripts/gcc-version.sh:行25: /usr/bin/gcc: 没有那个文件或目录
+./scripts/gcc-version.sh:行26: /usr/bin/gcc: 没有那个文件或目录
+make[1]: /usr/bin/gcc：命令未找到
+make[1]: 进入目录“/usr/src/kernels/4.12.10-1.el7.elrepo.x86_64”
+make[1]: /usr/bin/gcc：命令未找到
+make[1]: /usr/bin/gcc：命令未找到
+make[1]: /usr/bin/gcc：命令未找到
+make[1]: /usr/bin/gcc：命令未找到
+  CC [M]  /home/tcp_nanqinlang/tcp_nanqinlang.o
+/bin/sh: /usr/bin/gcc: 没有那个文件或目录
+make[2]: *** [/home/tcp_nanqinlang/tcp_nanqinlang.o] 错误 1
+make[1]: *** [_module_/home/tcp_nanqinlang] 错误 2
+make[1]: 离开目录“/usr/src/kernels/4.12.10-1.el7.elrepo.x86_64”
+make: *** [all] 错误 2
+[Error] load mod failed, please check!
+```
+
+原因：没有安装gcc
+
+安装gcc：
+
+`yum install gcc`
+
+
 ### 魔改BBR卸载
 
 1.Putty连接VPS服务器，运行如下命令：
