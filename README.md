@@ -4,6 +4,10 @@
 
 https://url.cn/5quaClW
 
+### SS/SSR推荐
+
+https://justmysocks.net/members/aff.php?aff=2765
+
 
 禁止使用账号进行BT下载！BT下载会导致服务器被投诉而被封！为保证每个用户都能获得一定的带宽资源，**单个用户限速300kb/s**。
 
