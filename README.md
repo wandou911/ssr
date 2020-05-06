@@ -99,7 +99,7 @@ MAC SSR客户端 [下载地址](https://github.com/shadowsocksr-backup/Shadowsoc
 
 [安卓手机翻墙方法](https://gitlab.com/Alvin9999/free/wikis/%E5%AE%89%E5%8D%93%E6%89%8B%E6%9C%BA%E7%89%88)
 
-
+[免费节点](https://github.com/selierlin/Share-SSR-V2ray)
 ***
 
 有问题可以发邮件至海外邮箱wandou911@gmail.com
