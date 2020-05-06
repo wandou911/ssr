@@ -7,6 +7,7 @@ https://url.cn/5quaClW
 ### SS/SSR推荐
 
 ![https://justmysocks.net/members/aff.php?aff=2765](https://doubibackup.com/bwgss-h.png)
+<a href="https://justmysocks.net/members/aff.php?aff=2765"><img src="https://doubibackup.com/bwgss-h.png"></a>
 
 https://justmysocks.net/members/aff.php?aff=2765
 
