@@ -19,8 +19,9 @@ google.com(谷歌；搜索类） youtube.com(油管；视频类）
 ### ===自己搭建SS/SSR或v2ray服务器教程===
 [ssr一键安装](https://github.com/wandou911/ssr/wiki/SSR一键安装)
 
-[trojan-一键安装教程](https://github.com/wandou911/ssr/wiki/trojan-一键安装教程)
+[trojan-一键安装](https://github.com/wandou911/ssr/wiki/trojan-一键安装教程)
 
+[v2ray一键安装](https://github.com/wandou911/ssr/blob/master/v2ray.md)
 
 
 [自建ss/ssr服务器教程](https://github.com/wandou911/ssr/wiki/自建ss服务器教程) （很详细，适合新手）
