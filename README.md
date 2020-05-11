@@ -33,7 +33,9 @@ google.com(谷歌；搜索类） youtube.com(油管；视频类）
 [自建brook服务器教程](https://github.com/wandou911/ssr/wiki/自建brook服务器教程) （新的翻墙方式，速度更快）
 
 
+### ===工具配置教程===
 
+[shadowrocket 配置 trojan教程](https://github.com/wandou911/ssr/blob/master/shadowrocket-trojan.md)
 
 
 ### VPS推荐：
