@@ -8,7 +8,7 @@ https://url.cn/5quaClW
 
 <a href="https://justmysocks.net/members/aff.php?aff=2765"><img src="https://doubibackup.com/bwgss-h.png"></a>
 
-https://justmysocks.net/members/aff.php?aff=2765
+https://justmysocks2.net/members/aff.php?aff=2765
 
 
 禁止使用账号进行BT下载！BT下载会导致服务器被投诉而被封！为保证每个用户都能获得一定的带宽资源，**单个用户限速300kb/s**。
@@ -40,9 +40,9 @@ google.com(谷歌；搜索类） youtube.com(油管；视频类）
 
 ### VPS推荐：
 
-* [搬瓦工官方网站](https://bandwagonhost.com/aff.php?aff=19935)
+* [搬瓦工官方网站](https://bwh88.net/aff.php?aff=19935)
 
-[https://bandwagonhost.com/aff.php?aff=19935](https://bandwagonhost.com/aff.php?aff=19935)
+[https://bwh88.net/aff.php?aff=19935](https://bandwagonhost.com/aff.php?aff=19935)
 
 [![搬瓦工](https://ssr.tools/wp-content/uploads/Banwagonhost.png)](https://bandwagonhost.com/aff.php?aff=19935)
 
