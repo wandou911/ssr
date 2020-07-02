@@ -70,6 +70,21 @@ https://url.cn/5quaClW
 
 免费资源有速度限制，建议每个有条件的人都学习一下自己搭建服务器，学一门技能有备无患。
 
+#### Trojan节点
+
+地址：tg.xiaokeli.cf
+端口：443
+密码：tgv2ray
+
+#### SSR节点
+
+ssr://dnJkZTAyLnhpYW9rZWxpLmNmOjYzNTA0OmF1dGhfYWVzMTI4X21kNTphZXMtMTI4LWN0cjp0bHMxLjJfdGlja2V0X2F1dGg6ZUdsaGIydGxiR2t1YVc1bWJ3Lz9yZW1hcmtzPTViNjM1WnU5NklxQzU0SzUmcHJvdG9wYXJhbT1NVGszTkRBNmVHbGhiMnRsYkdrdWJXVSZvYmZzcGFyYW09ZG5Ka1pUQXlMbmhwWVc5clpXeHBMbWx1Wm04
+
+ssr://bG51azAyLnhpYW9rZWxpLmNmOjYzNTA0OmF1dGhfYWVzMTI4X21kNTphZXMtMTI4LWN0cjp0bHMxLjJfdGlja2V0X2F1dGg6YzNOeVkyeHZkV1F1YVc1bWJ3Lz9yZW1hcmtzPTZJdXg1WnU5TGVTOHB1YVZwaU5zYmcmcHJvdG9wYXJhbT1NVGszTkRBNmVHbGhiMnRsYkdrdWJXVSZvYmZzcGFyYW09Ykc1MWF6QXlMbmhwWVc5clpXeHBMbTFz
+
+服务器：端口：密码：加密方法：路由：
+
+协议：协议参数：混淆方式：混淆参数：本地端口：
 
 ![节点](https://i.loli.net/2019/06/15/5d04a48d7ee8060454.png)
 
