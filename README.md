@@ -82,11 +82,34 @@ ssr://dnJkZTAyLnhpYW9rZWxpLmNmOjYzNTA0OmF1dGhfYWVzMTI4X21kNTphZXMtMTI4LWN0cjp0bH
 
 ssr://bG51azAyLnhpYW9rZWxpLmNmOjYzNTA0OmF1dGhfYWVzMTI4X21kNTphZXMtMTI4LWN0cjp0bHMxLjJfdGlja2V0X2F1dGg6YzNOeVkyeHZkV1F1YVc1bWJ3Lz9yZW1hcmtzPTZJdXg1WnU5TGVTOHB1YVZwaU5zYmcmcHJvdG9wYXJhbT1NVGszTkRBNmVHbGhiMnRsYkdrdWJXVSZvYmZzcGFyYW09Ykc1MWF6QXlMbmhwWVc5clpXeHBMbTFz
 
-服务器：端口：密码：加密方法：路由：
+德国节点：
 
-协议：协议参数：混淆方式：混淆参数：本地端口：
+服务器：vrde02.xiaokeli.cf
+远程端口：63504
+密码：xiaokeli.info
+加密方法：aes-128-ctr
+路由：绕过局域网及中国大陆地址
 
-![节点](https://i.loli.net/2019/06/15/5d04a48d7ee8060454.png)
+协议：auth_aes128_md5
+协议参数：8388:zVYvRS
+混淆方式：tls1.2_ticket_auth
+混淆参数：vrde02.xiaokeli.info
+本地端口：1080
+
+英国节点：
+
+服务器：lnuk02.xiaokeli.cf
+远程端口：63504
+密码：ssrcloud.info
+加密方法：aes-128-ctr
+路由：绕过局域网及中国大陆地址
+
+协议：auth_aes128_md5
+协议参数：8388:zVYvRS
+混淆方式：tls1.2_ticket_auth
+混淆参数：lnuk02.xiaokeli.ml
+本地端口：1080
+
 
 **SSR客户端下载：**
 
