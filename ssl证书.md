@@ -54,5 +54,5 @@ Stoping nginx...  done
 Saving debug log to /var/log/letsencrypt/letsencrypt.log
 
 [root@vultr certbot]# service nginx start
-
+Starting nginx...  done
 ```
