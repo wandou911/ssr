@@ -27,3 +27,32 @@ Starting nginx... nginx: [emerg] BIO_new_file("/etc/letsencrypt/live/test.toodya
 如果使用的是lnmp，直接键入 lnmp vhost del ，然后键入你想删除的域名即可
 
 nginx关闭的时候SSR竟然也用不了，奇怪
+
+3 使用certbot命令删除证书
+
+进入 /etc/letsencrypt/renewal 目录
+
+```
+[root@vultr ~]# cd /etc/letsencrypt/renewal
+
+[root@vultr live]# ls
+README  www.xiaokeli.me
+
+[root@vultr renewal]# certbot delete --cert-name www.xiaokeli.me
+Saving debug log to /var/log/letsencrypt/letsencrypt.log
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+Deleted all files relating to certificate www.xiaokeli.me
+```
+
+4 certbot更新证书 
+
+```
+[root@vultr certbot]# service nginx stop
+Stoping nginx...  done
+[root@vultr certbot]# certbot renew
+Saving debug log to /var/log/letsencrypt/letsencrypt.log
+
+[root@vultr certbot]# service nginx start
+
+```
