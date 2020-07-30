@@ -6,7 +6,7 @@
 
 ### SS/SSR免费账号注册（长期更新）
 
-https://url.cn/5quaClW
+https://xiaokeli.me
 
 ### SS/SSR推荐
 
@@ -68,7 +68,7 @@ http://www.xiaokeli.me/register?aff=88
 
 备用地址：
 
-https://url.cn/5quaClW
+https://xiaokeli.me
 
 免费账号用的人多，所以有速度限制，如果想高速翻墙上网、学习翻墙技能，可以自己搭建服务器。[自建ss/ssr服务器教程](https://github.com/wandou911/ssr/wiki/自建ss服务器教程) 
 
