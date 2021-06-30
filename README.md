@@ -4,6 +4,8 @@
 
 [https://ebvtech.gitbook.io/wiki/](https://ebvtech.gitbook.io/wiki/)
 
+https://justmysocks2.net/members/aff.php?aff=2765
+
 英国节点：
 
 ssr://bG51azAyLnhpYW9rZWxpLmNmOjYzNTA0OmF1dGhfYWVzMTI4X21kNTphZXMtMTI4LWN0cjp0bHMxLjJfdGlja2V0X2F1dGg6YzNOeVkyeHZkV1F1YVc1bWJ3Lz9vYmZzcGFyYW09Ykc1MWF6QXlMbmhwWVc5clpXeHBMbTFzJnByb3RvcGFyYW09TVRBd05ESTZVRzVrT0dGNSZyZW1hcmtzPTZJdXg1WnU5TGVTOHB1YVZwaU5zYmcmZ3JvdXA9JnVkcHBvcnQ9MCZ1b3Q9MA
