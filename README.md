@@ -1,6 +1,6 @@
 # ssr
 
-### SS/SSR 付费节点 2021-9-1 更新 需翻墙访问
+### SS/SSR 付费节点 2021-9-1 更新 需翻墙
 
 [https://www.socketpro.link/aff/119062](https://www.socketpro.link/aff/119062)
 
