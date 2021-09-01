@@ -1,5 +1,9 @@
 # ssr
 
+### SS/SSR 付费节点 2021-9-1 更新
+
+[https://www.socketpro.link/aff/119062](https://www.socketpro.link/aff/119062)
+
 ### SS/SSR免费节点 2020-8-20更新
 
 [https://ebvtech.gitbook.io/wiki/](https://ebvtech.gitbook.io/wiki/)
