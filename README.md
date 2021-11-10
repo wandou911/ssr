@@ -54,7 +54,7 @@ google.com(谷歌；搜索类） youtube.com(油管；视频类）
 
 ### VPS推荐：
 
-* [搬瓦工官方网站](https://bwh88.net/aff.php?aff=19935)
+* [搬瓦工官方网站](https://bwh81.net/aff.php?aff=19935)
 
 [https://bwh88.net/aff.php?aff=19935](https://bandwagonhost.com/aff.php?aff=19935)
 
