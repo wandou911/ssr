@@ -68,9 +68,9 @@ google.com(谷歌；搜索类） youtube.com(油管；视频类）
 
 <a href="https://www.vultr.com/?ref=7236384"><img src="https://www.vultr.com/media/banner_2.png" width="468" height="60"></a>
 
-* [OneVPS官方网站](https://www.onevps.com/portal/aff.php?aff=3257)
+* [OneVPS官方网站](https://www.onevps.cloud/?aff=3257)
 
-[https://www.onevps.com/portal/aff.php?aff=3257](https://www.onevps.com/portal/aff.php?aff=3257)
+[https://www.onevps.cloud/?aff=3257](https://www.onevps.cloud/?aff=3257)
 
 ### ===免费SS/SSR节点列表===（不定期更新账号ip或端口或密码）
 
