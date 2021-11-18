@@ -37,6 +37,8 @@ google.com(谷歌；搜索类） youtube.com(油管；视频类）
 
 [trojan-一键安装](https://github.com/wandou911/ssr/wiki/trojan-一键安装教程)
 
+`bash <(curl -sL https://raw.githubusercontent.com/wandou911/ssr/master/trojan-go.sh)`
+
 [v2ray一键安装](https://github.com/wandou911/ssr/blob/master/v2ray.md)
 
 
