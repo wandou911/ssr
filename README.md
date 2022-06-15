@@ -2,6 +2,8 @@
 
 ### SS/SSR 付费节点 2021-9-1 更新 需翻墙
 
+[https://dddd.xxxxpppp.cyou/auth/register?code=u6hW](https://dddd.xxxxpppp.cyou/auth/register?code=u6hW)
+
 [https://www.socketpro.link/aff/119062](https://www.socketpro.link/aff/119062)
 
 ### SS/SSR免费节点 2020-8-20更新
