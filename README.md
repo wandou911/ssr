@@ -4,13 +4,11 @@
 
 [https://dddd.xxxxpppp.cyou/auth/register?code=u6hW](https://dddd.xxxxpppp.cyou/auth/register?code=u6hW)
 
-[https://www.socketpro.link/aff/119062](https://www.socketpro.link/aff/119062)
-
 ### SS/SSR免费节点 2020-8-20更新
 
 [https://ebvtech.gitbook.io/wiki/](https://ebvtech.gitbook.io/wiki/)
 
-https://justmysocks2.net/members/aff.php?aff=2765
+https://justmysocks3.net/members/aff.php?aff=2765
 
 英国节点：
 
