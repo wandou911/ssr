@@ -1,6 +1,8 @@
 # ssr
 
-### SS/SSR 付费节点 2021-9-1 更新 需翻墙
+### SS/SSR 付费节点 2022-8-1 更新 
+
+https://justmysocks3.net/members/aff.php?aff=2765
 
 [https://dddd.xxxxpppp.cyou/auth/register?code=u6hW](https://dddd.xxxxpppp.cyou/auth/register?code=u6hW)
 
