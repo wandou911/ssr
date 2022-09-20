@@ -202,7 +202,7 @@ getData() {
             CERT_FILE="/etc/trojan-go/${DOMAIN}.pem"
             KEY_FILE="/etc/trojan-go/${DOMAIN}.key"
         else
-            resolve=`curl -sL https://hijk.art/hostip.php?d=${DOMAIN}`
+            resolve=`curl -sL https:///hostip.php?d=${DOMAIN}`
             res=`echo -n ${resolve} | grep ${IP}`
             if [[ -z "${res}" ]]; then
                 echo " ${DOMAIN} 解析结果：${resolve}"
