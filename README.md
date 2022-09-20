@@ -6,15 +6,15 @@ https://justmysocks3.net/members/aff.php?aff=2765
 
 [https://dddd.xxxxpppp.cyou/auth/register?code=u6hW](https://dddd.xxxxpppp.cyou/auth/register?code=u6hW)
 
-### SS/SSR免费节点 2020-8-20更新
+### SSR免费节点
 
 [https://ebvtech.gitbook.io/wiki/](https://ebvtech.gitbook.io/wiki/)
 
-https://justmysocks3.net/members/aff.php?aff=2765
+https://www.vultr.com/?ref=7236384
 
-英国节点：
+美国节点：
 
-ssr://bG51azAyLnhpYW9rZWxpLmNmOjYzNTA0OmF1dGhfYWVzMTI4X21kNTphZXMtMTI4LWN0cjp0bHMxLjJfdGlja2V0X2F1dGg6YzNOeVkyeHZkV1F1YVc1bWJ3Lz9vYmZzcGFyYW09Ykc1MWF6QXlMbmhwWVc5clpXeHBMbTFzJnByb3RvcGFyYW09TVRBd05ESTZVRzVrT0dGNSZyZW1hcmtzPTZJdXg1WnU5TGVTOHB1YVZwaU5zYmcmZ3JvdXA9JnVkcHBvcnQ9MCZ1b3Q9MA
+ssr://YndnLnhpYW9rZWxpLnh5ejo0NDM6YXV0aF9hZXMxMjhfbWQ1OmFlcy0xMjgtY3RyOnRsczEuMl90aWNrZXRfYXV0aDplR2xoYjJ0bGJHa3VhVzVtYncvP29iZnNwYXJhbT0mcHJvdG9wYXJhbT1NVEEzTVRjNlVHNWtPR0Y1JnJlbWFya3M9NXBhdzVhS2VZbmRuNTc2TzVadTkmZ3JvdXA9NXBtdTZZQ2E2SXFDNTRLNSZ1ZHBwb3J0PTAmdW90PTA
 
 ### SS/SSR免费账号注册（长期更新）
 
@@ -24,7 +24,7 @@ https://xiaokeli.me
 
 <a href="https://justmysocks.net/members/aff.php?aff=2765"><img src="https://doubibackup.com/bwgss-h.png"></a>
 
-https://justmysocks2.net/members/aff.php?aff=2765
+https://justmysocks3.net/members/aff.php?aff=2765
 
 
 禁止使用账号进行BT下载！BT下载会导致服务器被投诉而被封！为保证每个用户都能获得一定的带宽资源，**单个用户限速300kb/s**。
