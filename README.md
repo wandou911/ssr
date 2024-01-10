@@ -22,7 +22,7 @@ https://xiaokeli.me
 
 ### SS/SSR推荐
 
-<a href="https://justmysocks.net/members/aff.php?aff=2765"><img src="https://doubibackup.com/bwgss-h.png"></a>
+<a href="https://justmysocks3.net/members/aff.php?aff=2765"><img src="https://doubibackup.com/bwgss-h.png"></a>
 
 https://justmysocks3.net/members/aff.php?aff=2765
 
