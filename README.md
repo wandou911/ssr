@@ -1,5 +1,13 @@
 # ssr
 
+### Xboard 机场搭建
+
+[xboard面板安装]
+
+[xboard主题安装]
+
+[xboard节点对接]
+
 ### SS/SSR 付费节点 2024-7-1 更新
 
 https://cocoduck.live/auth/register?code=11d5195115
