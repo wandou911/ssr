@@ -59,6 +59,9 @@ google.com(谷歌；搜索类） youtube.com(油管；视频类）
 
 ### VPS推荐：
 
+* [https://nube.sh/invite/590446821MYU82](https://nube.sh/invite/590446821MYU82)
+  最低每月2.5$
+
 * [搬瓦工官方网站](https://bwh81.net/aff.php?aff=19935)
 
 [https://bwh81.net/aff.php?aff=19935](https://bwh81.net/aff.php?aff=19935)
